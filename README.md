@@ -17,7 +17,7 @@
 
 | Ressource | Lien |
 |---|---|
-| 📁 Dépôt GitHub | *[à compléter]* |
+| 📁 Dépôt GitHub | *https://github.com/sp7ce/Projet_c--_yahya_othmane* |
 | 🎬 Vidéo de démonstration | *[à compléter]* |
 | 📄 Rapport PDF | *[à compléter]* |
 
