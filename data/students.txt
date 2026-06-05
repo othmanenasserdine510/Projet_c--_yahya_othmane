@@ -1,0 +1,8 @@
+Licence|1001|Amrani Kenza|3.8|Informatique
+Master|1002|Belhadj Youssef|3.5|Vision par Ordinateur
+Doctorat|1003|Chaoui Leila|3.9|Pr. Mansouri|2
+Licence|1004|Draouri Mehdi|2.9|Reseaux
+Master|1005|El Fassi Sara|4|Cybersecurite
+Licence|3001|Amrani Kenza|3.9|Informatique
+Master|3002|Belhadj Youssef|3.5|Vision par Ordinateur
+Doctorat|3003|Chaoui Leila|3.9|Pr. Mansouri|2
