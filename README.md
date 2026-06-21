@@ -18,8 +18,8 @@
 | Ressource | Lien |
 |---|---|
 | 📁 Dépôt GitHub | *https://github.com/sp7ce/Projet_c--_yahya_othmane* |
-| 🎬 Vidéo de démonstration | *[à compléter]* |
-| 📄 Rapport PDF | *[à compléter]* |
+| 🎬 Vidéo de démonstration | *(https://drive.google.com/file/d/1nTAsHhBN9QiAiRB88DAvXiAN_xqb4rvI/view?usp=sharing)* |
+| 📄 Rapport PDF | *(https://drive.google.com/file/d/11fFJeX_ky1hmQ6wF8GQSZkCdoQ4LfisT/view?usp=sharing)* |
 
 ---
 
